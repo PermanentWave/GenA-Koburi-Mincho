@@ -33,7 +33,7 @@ PC、スマートフォン等、他の端末でも使用できますが、これ
 
 # 謝辞
 源ノ明朝/源ノ角ゴシックを配布してくださっている[Adobe-Fonts](https://github.com/adobe-fonts)様  
-源暎こぶり明朝を配布、fontforgeで源ノ明朝/源ノ角ゴシックを改変する方法について解説してくださっている[御琥祢屋](https://okoneya.jp/font/knowhow.html)様  
+源暎こぶり明朝を配布、fontforgeで源ノ明朝/源ノ角ゴシックを改変する方法について解説してくださっている[御琥祢屋](https://okoneya.jp/)様  
 この場をお借りし、感謝申し上げます。
 
 # 参考
