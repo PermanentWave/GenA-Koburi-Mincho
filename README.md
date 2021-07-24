@@ -37,5 +37,6 @@ PC、スマートフォン等、他の端末でも使用できますが、これ
 この場をお借りし、感謝申し上げます。
 
 # 参考
+> [源亜こぶり明朝作成の備忘録](https://permanentwave.github.io/2021/07/24/2021-07-24-01/)
 > [fontforge Module attributes](https://fontforge.org/docs/scripting/python/fontforge.html)  
 > [OS/2 — OS/2 and Windows Metrics Table](https://docs.microsoft.com/en-us/typography/opentype/spec/os2)  
