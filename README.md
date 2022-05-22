@@ -24,6 +24,7 @@ PC、スマートフォン等、他の端末でも使用できますが、これ
     - 縦書きフォントについて、[Unicode Vertical Orientation Revision 17](https://unicode.org/Public/vertical/revision-17/VerticalOrientation-17.html)を基に全てのグリフの傾き方向を見直しました。  
     - Obliqueフォントを作る際のアルゴリズムを見直しました。(従来の作成方法では傾きが上手く適用できていなかったり、傾きが何倍にも増幅する事がありましたが、今回の見直しで改善しました。)  
     - 縦書き用グリフの表示方法を見直しました。(縦書き用グリフを復活し、代わりにLookups.GSUB.vrt2テーブルを削除しました。)  
+    - Fontforgeのバージョンを上げました。(FontForge-2020-11-07(FontForge 20th Anniversary Edition) => FontForge-2022-03-08)
 - ver. 1.01 (2021/07/29)
     - 縦書きフォントのギリシア文字、キリル文字、一部記号の傾き方向を修正しました。  
 - ver. 1.00 (2021/07/24)
