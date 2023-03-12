@@ -19,6 +19,15 @@ PC、スマートフォン等、他の端末でも使用できますが、これ
 縦書き用、横書き用で歪ませている方向が違います。  
 
 # 更新履歴  
+- ver. 3.00 (2023/03/12)  
+    - 日本語フォント名を変更  
+    - ヒンティングを削除  
+    - OS2_Panose、TTF名の見直し  
+    - 縦書きフォントにてU+210Aの傾き方向を修正
+    - 開発環境を一新  
+        - Ubuntu 22.04  
+        - fontforge 20220308  
+        - ttfautohint 1.8
 - ver. 2.00 (2022/05/22)
     - Boldフォントを削除しました。(Kindle Paperwhite(第11世代) ver.5.14.3.0.1にはRegularフォントをBoldのように表示する機能はあるため、基となった源暎こぶりにないBoldフォントを削除しました。)  
     - 縦書きフォントについて、[Unicode Vertical Orientation Revision 17](https://unicode.org/Public/vertical/revision-17/VerticalOrientation-17.html)を基に全てのグリフの傾き方向を見直しました。  
