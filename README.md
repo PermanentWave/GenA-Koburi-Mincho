@@ -30,7 +30,8 @@ PC、スマートフォン等、他の端末でも使用できますが、これ
     - 開発環境を一新  
         - Ubuntu 22.04  
         - fontforge 20220308  
-        - ttfautohint 1.8
+        - ttfautohint 1.8.3
+        - Python 3.11
 - ver. 2.00 (2022/05/22)
     - Boldフォントを削除しました。(Kindle Paperwhite(第11世代) ver.5.14.3.0.1にはRegularフォントをBoldのように表示する機能はあるため、基となった源暎こぶりにないBoldフォントを削除しました。)  
     - 縦書きフォントについて、[Unicode Vertical Orientation Revision 17](https://unicode.org/Public/vertical/revision-17/VerticalOrientation-17.html)を基に全てのグリフの傾き方向を見直しました。  
